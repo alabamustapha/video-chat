@@ -10,7 +10,7 @@ use Twilio\Rest\Client;
 $twilioAccountSid = 'ACadf9fd2b72eb4f14a55ecc0748899bae';
 $twilioApiKey = 'SK05009df2443d72d2dd5dcafe78630a49';
 $twilioApiSecret = '3VPn5PYvMg34dSzMM4gv5AZ3nKKiSofQ';
-$authToken = '39de6d78cda8612abcc3f4d54192ae09';
+$authToken = '096dad8617e79c6b831fba87c5c64b93';
 $roomName = "DailyStandup";
 
 
